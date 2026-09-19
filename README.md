@@ -1,4 +1,4 @@
 # sri-practice
-Author - Srishti Gupta.
+Author - Srishti (apna college).
 <b>
 This is my first Git Repository.
